@@ -1,4 +1,4 @@
-# Dashboards con Shiny
+# Dashboards con Shiny (equipo 22)
 ### -Echeveste Vázquez, José Andrés
 ### -Medina García, Flor de María
 
